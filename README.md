@@ -1,9 +1,9 @@
-# 
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Portfolio — Kartik Yadav</title>
+  <title>Kartik Yadav</title>
   <meta name="description" content="Portfolio of Kartik Yadav, a web developer focused on modern front-end, React, and MERN." />
   <!-- Favicon: place favicon.ico or favicon.png alongside this file -->
   <link rel="icon" href="favicon.ico" type="image/x-icon" />
